@@ -1,0 +1,50 @@
+#+title: Histórico de Proyectos II
+
+* 2022/2023
+:PROPERTIES:
+:CUSTOM_ID: section
+:END:
+
+- [[https://github.com/UCM-FDI-DISIA/Fae-Studios][Ott: an Elemental Journey (Fae Studios)]]
+- [[https://github.com/UCM-FDI-DISIA/Selery-Studios][El quinto elemento (Selery Studios)]]
+- [[https://github.com/UCM-FDI-DISIA/nullptr][Timeless Deck: Es Tiempo (nullptr)]]
+- [[https://github.com/UCM-FDI-DISIA/Nightmare-Dogs][RushTaurant Secrets (Nightmare Dogs)]]
+
+* 2021/2022
+:PROPERTIES:
+:CUSTOM_ID: section-1
+:END:
+
+- [[https://github.com/miggon23/MonkeyDelivery][Monkey Delivery (Moon Key)]]
+- [[https://github.com/jgomez18UCM/VerdantSorrow][Verdant Sorrow - Xuppap Inc]]
+- [[https://github.com/javics2002/Paella][¡Paella Va! (Sisplau)]]
+- [[https://github.com/ivo-hr/super-proj-melee][Project VS 21 (LeftOvers)]], en [[https://bettermasse2.itch.io/project-vs-21][itch.io]]
+
+* 2020/2021
+:PROPERTIES:
+:CUSTOM_ID: section-2
+:END:
+- [[https://josedamachine.itch.io/captain-brinetooth][Captain BrineTooth (CLAP [Carlos León Llamalo Ángel Plis])]]
+- [[https://rubenglezortiz.github.io/Proyectos2-2020-21/][PaintLess (NoNameStudios)]]
+- [[https://github.com/LoS-HueRFaNoS/PROYECTO.02---FDI---UCM---GAME][The Elemental Maze ("Huérfanos")]]
+- [[https://github.com/sergimol/Hamster-Crashers][The SqueakShip (Juegos ASADOS)]]
+- [[https://github.com/iquintasALT/DOME][DOME (SurEffect)]]
+
+* 2019/2020
+:PROPERTIES:
+:CUSTOM_ID: section-3
+:END:
+- [[https://nicopast.github.io/P2/][Lorem Ipsum (Rainbee)]]
+- [[https://tai1games.github.io/Programa-de-Convivencia-Espacial/][PCE (TAI1 Games)]]\\
+- [[https://moruyankiifighter.github.io/FighterTraighter/][Fighter Traighter (Moruyankii Fighter)]]
+- [[https://studiostenbyten.wixsite.com/animalcooking][Animal Cooking (TenByTen)]]
+- [[https://dopplebangerwebucm.wordpress.com/][Dopplebanger (CPlusPlusTas)]]
+
+* 2018/2019
+:PROPERTIES:
+:CUSTOM_ID: section-4
+:END:
+- [[https://dagil02.github.io/TaxiRevengeDLC/][Taxi Revenge (YuZu)]]
+- *[[https://github.com/pablojor/Anyaroth][Anyaroth (YggdraSeed)]], en [[https://store.steampowered.com/app/1820270/Anyaroth_The_Queens_Tyranny/][Steam]]*
+- [[https://freesstylers.github.io/District-Dance-Battle/][District Dance Battle (FreeStylers)]]
+- [[https://github.com/kyranet/Drakhtar][Drakhtag (!VG)]]

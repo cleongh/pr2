@@ -1,0 +1,92 @@
+#+TITLE: Proyectos II
+#+LANGUAGE: es
+#+setupfile: setup.org
+
+* La asignatura
+
+En Proyectos II vais a hacer un juego 2D, aplicando todo lo aprendido en 1º y 2º
+
+#+REVEAL: split
+
+Se sigue un proceso muy parecido a (y coordinado con) Proyectos I y PVLI
+
+* Profesores
+
+- Carlos León <[[mailto:cleon@ucm.es][cleon@ucm.es]]>
+- Alejandro Romero <[[mailto:alerom02@ucm.es][alerom02@ucm.es]]>
+
+
+* Características de PRII
+
+- Grupos /grandes/ (8-10 personas)
+- C++/SDL (se puede usar TPV)
+- Libertad para usar otras librerías (consultad primero)
+- Libertad para usar /assets/ propios y externos (¡con licencia!)
+- Énfasis adicional en buena gestión y diseño
+- *El código sigue siendo lo principal*
+
+
+* Hitos
+
+- Hito 0, presentación de idea y puesta en marcha
+- Hito 1, primer prototipo, mecánicas principales
+- Hito 2, demo jugable, QA
+- Hito 3 (final), juego completo, despliegue
+
+** Formato de hitos
+
+En los hitos, se hará una revisión de material y código
+
+** Presentaciones
+
+Los hitos también tendrán una *presentación*:
+
+- Dirigida y gestionada por la clase
+- Cada grupo tendrá que contar el juego, lo bueno y lo malo
+
+
+* Desarrollo de las sesiones
+
+Por grupos, presencial, en los laboratorios
+
+Las sesiones en aula serán planificadas y avisadas
+
+* Foro
+
+Es el *método de comunicación oficial*.
+
+El foro de la asignatura es muy, muy útil si se usa bien y se comparte contenido
+
+Se tendrá en cuenta en la evaluación a aquellos estudiantes que colaboren activamente en el foro
+
+* Alcance de la asignatura
+
+En PR2 se han conseguido hacer algunos juegos excelentes, presentados en ferias y publicados
+
+En una oportunidad muy buena para disfrutar y hacer un juego digno de enseñar (portfolio)
+
+* Exigencia
+
+PR2 es una asignatura exigente y requiere esfuerzo
+
+#+REVEAL: split
+
+En este momento del grado tenéis un nivel técnico suficiente para dar un paso cualitativo, pero la única manera de aprender esto es trabajar y hacerlo muy bien
+
+Por eso, se os va a pedir calidad y acabado, y se va exigir que esté todo muy bien hecho
+
+#+REVEAL: split
+
+A cambio, vamos a ayudaros mucho a que salga muy bien, y a que disfrutéis la asignatura y el proyecto
+
+* Material CV
+
+La asignatura es 100% práctica, pero haremos algunas sesiones en el aula
+
+Todo estará organizado y anunciado en el CV
+
+* La metodología: caos controlado
+
+#+REVEAL: split
+
+*Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom* (Louis Deslauriers, Logan S. McCarty, Kelly Miller, Kristina Callaghan, and Greg Kestin). PNAS, Vol 116, No. 39 (2019)

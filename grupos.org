@@ -1,0 +1,23 @@
+#+title: Normativa de grupos
+#+OPTIONS: html-postamble:nil toc:nil
+
+
+* Creación de grupos
+
+Se harán grupos de entre 8 y 11 alumnos. La clase podrá hacer los grupos de forma autónoma, acordando entre los estudiantes la composición.
+
+En caso de quedar alumnos sin asignar, el equipo docente los asignará a discreción.
+
+La lista de grupos y sus miembros quedan sujetas a la aprobación del equipo docente, que podrá hacer unilateralmente los cambios que considere oportunos.
+
+* Modificación de grupos
+:PROPERTIES:
+:CUSTOM_ID: modificación-de-grupos
+:END:
+Para modificar los miembros, todos los grupos implicados deberán tener un consenso de mayoría absoluta (la mitad más 1) en cuanto al cambio. En caso contrario, no se realizarán modificaciones. Además, los alumnos implicados deberán estar de acuerdo con el cambio (incluso si hay mayoría absoluta). Es decir, la mayoría del grupo no puede expulsar unilateralmente a un miembro.
+
+* Excepciones
+:PROPERTIES:
+:CUSTOM_ID: excepciones
+:END:
+En caso de conflicto, los grupos implicados deberán comentar el asunto con el equipo docente, que se encargará de gestionar el problema. Lo decisión del equipo docente, si bien se procurará que sea productiva y con el fin de asegurar las mejores condiciones para todos, serán de obligado cumplimiento.

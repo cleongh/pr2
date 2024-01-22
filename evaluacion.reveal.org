@@ -1,0 +1,162 @@
+#+TITLE: Evaluación del proyecto
+#+LANGUAGE: es
+#+setupfile: setup.org
+
+
+* Evaluar proyectos es complejo
+
+En un proyecto hay muchos factores, mucha gente y muchas tareas
+
+En un videojuego hay muchas tareas de dominios muy distintos, y dividir el área a la que pertenece cada tarea es, a veces, poco realista
+
+* Evaluación por alcance y calidad
+
+- Tenéis unas 15 semanas
+- Asumamos 6-7 horas de dedicación a la semana
+- Aproximadamente, *100 horas* de dedicación a la asignatura
+
+#+REVEAL: split
+
+Eso quiere decir que se os pedirá un proyecto de \\
+
+$\text{puntos} = 100 \times \text{estudiantes}$
+
+* Alcance
+
+El proyecto tendrá que definir un alcance (una lista de características, tamaño, etc)
+
+A cada característica se le asignarán una serie de horas
+
+Cada característica se evaluará y, al final, se dará un porcentaje de las horas en función de su acabado
+
+* Ejemplo
+
+- Sois 9 estudiantes
+- Se diseña un proyecto de 950 puntos (más de lo exigido)
+
+
+#+REVEAL: split
+
+- Movimiento y salto: 500 puntos
+- Boss final: 450 puntos
+
+#+REVEAL: split
+
+Al evaluar, el /boss/ queda un poco limitado, se dan 300 puntos
+
+Al movimiento, todo (500 puntos)
+
+En total, el proyecto ha obtenido 800 puntos
+
+#+REVEAL: split
+
+Para sacar la máxima nota se necesitaban 900 puntos ($9~\text{estudiantes} \times 100 ~\text{puntos}$)
+
+En total, una aproximación a la calidad del proyecto sería $\frac{800}{900} \approx 8.8$
+
+* Nota por estudiante
+
+Pero la nota del proyecto no es la nota de los miembros
+
+#+REVEAL: split
+
+La nota de cada estudiante se hará en función de la contribución de cada uno, por puntos
+
+El grupo tendrá que *controlar cuántos puntos merece cada miembro*
+
+(Es parte de lo que queremos que trabajéis en la asignatura)
+
+#+REVEAL: split
+
+Según el ejemplo
+
+De los 800 puntos obtenidos:
+
+- $A$ merece un poco del movimiento y un poco del boss: 75 puntos
+- $B$ merece solo del boss, pero lo ha hecho casi todo: 100 puntos
+- ...
+
+#+REVEAL: split
+
+Obviamente, la suma de los puntos de cada persona deberá ser igual a los puntos del proyecto
+
+(Más adelante os contamos cómo repartirlos)
+
+* Límites por área
+
+Los puntos se os darán como una cifra única que podréis repartir como queráis
+
+Pero hay un límite en los puntos que podéis recibir por área
+
+#+REVEAL: split
+
+De forma orientativa, en un proyecto de 1000 puntos y con cambios a discreción del equipo docente:
+
+- Implementación: hasta 400 puntos
+- Gestión: hasta 200 puntos
+- Arte: hasta 100 puntos
+- Diseño: hasta 100 puntos
+- Comunicación: hasta 100 puntos
+- Soft skills: hasta 100 puntos
+
+* Líneas rojas
+
+Si alguno de los requisitos básicos no se cumple, el proyecto y todos sus componentes supenderán la convocatoria en curso
+
+La lista de requisitos puede ser ampliada en proyectos concretos, siempre con constancia y tiempo suficiente para el grupo
+
+#+REVEAL: split
+
+- El juego se podrá bajar de una página web "comercial", como un instalador
+- Se podrá instalar y ejecutar en un Windows 10 "de fábrica"
+- Se podrá jugar una partida completa y salir, sin errores
+- Tendrá audio y gráficos apropiados
+- Habrá un GDD amplio con la descripción completa del juego
+- Todos los miembros, salvo causa de fuerza mayor, habrán contribuido
+- Habrá una dirección artística coherente
+- Los assets tendrán formatos y tamaños apropiados
+
+#+REVEAL: split
+
+- Habrá una contribución notable en implementación
+- Haya contribuciones concretas en todas las demás áreas
+- La gestión habrá sido constante y seria durante el desarrollo
+- Se habrá presentado en todos los hitos
+- Habrá un test de QA, con el correspondiente informe
+
+#+REVEAL: split
+
+- No habrá /memory leaks/
+- Se usará C++ moderno, con el nivel de TPV2 (iteradores, lambdas, smart pointers, templates...)
+- Habrá una arquitectura software coherente: EC/ECS/herencia y justificada
+- No habrá duplicidades en el código
+- Habrá comentarios de código en las cabeceras y allí donde sea necesario
+- El proyecto tendrá al menos configuración /Debug/ y /Release/, y se publicará en /Release/
+
+#+REVEAL: split
+
+En general, cualquier defecto grave del proceso o el videojuego serán causa de suspenso, independientemente de los puntos y el alcance
+
+* Evaluación continua
+
+Iréis teniendo notas y realimentación durante la asignatura, pero es solo para que sepáis el estado y el criterio del equipo docente
+
+Se irá revisando el alcance del proyecto, y se os dará información sobre cómo vais y qué se espera que hagáis
+
+** La única nota que cuenta es la final
+
+Todo el contenido que se trabaja en los proyectos es acumulativo
+
+Aunque se os irá dando realimentación e información de cómo va el proyecto según los criterios de evaluación, la nota final será lo único que tenga peso
+
+* Convocatoria extraordinaria
+
+La convocatoria extraordinaria tiene los mismos requisitos que la ordinaria
+
+Habrá que recuperar las partes cuyo mínimo no se haya satisfecho dentro del proyecto
+
+No habrá presentación pública, y es posible (según la ficha docente) que haya partes que no se puedan recuperar, pero siempre será posible aprobar
+
+#+REVEAL: split
+
+En cualquier caso, lo ideal es hablar con el equipo docente antes de afrontar la entrega extraordinaria para establecer unos objetivos y un alcance

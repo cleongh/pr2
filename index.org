@@ -1,0 +1,11 @@
+#+title: Nombre
+#+language: es
+
+* Contenido
+  
+- [[file:introduccion.reveal.org]]
+- [[file:evaluacion.reveal.org]]
+- [[file:entregar.org]]
+- [[file:grupos.org]]
+- [[file:historico.org]]
+

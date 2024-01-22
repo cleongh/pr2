@@ -1,0 +1,99 @@
+#+title: Cómo entregar y presentar el proyecto
+#+setupfile: setup.org
+# #+OPTIONS: html-postamble:nil toc:nil
+
+
+
+* Repositorio
+
+- El repositorio estará alojado en la /Organización GitHub/ de DISIA (para tener acceso a características avanzadas). El equipo docente se juntará con los grupos para poner en marcha con ellos el repositorio.
+- El repositorio será público, así que *no pongáis información personal*.
+- En el repositorio estará todo el código y recursos.
+- Es fundamental que solo se usen recursos con licencia, y que se tenga cuidado de que nada que no sea de uso legal llegue por accidente al repositorio y/o al juego.
+
+* Gestión
+
+Toda la información de avance (la gestión) estará es /issues/ y tareas del proyecto de GitHub.
+
+** Cálculo del esfuerzo
+
+- Cada /issue/ tendrá unos puntos dados, que serán usados para el cómputo de esfuerzo. Se aplicarán a la persona asignada en la tarea. Habrá puntos:
+  - Estimados (en el campo =Estimación=)
+  - Reales, tras la realización de la tarea (campo =Puntos=)
+- Se usarán iteraciones (/Iterations) para los /sprints/
+- Se usarán /milestones/ para los hitos.
+
+** Gráficas
+
+- Se generarán gráficas que muestren el avance del proyecto, en particular, un /burnup chart/ o equivalente (en el proyecto de GitHub).
+
+
+* Presentaciones  
+
+- Los materiales de las presentaciones estarán disponibles en el repositorio, y enlazados en el README.
+- La **clase tendrá que organizar la sesión** de presentaciones: el orden, el tiempo por grupo, cómo centralizar el material de presentación, controlar el tiempo de cada grupo, etcétera.
+- Las presentaciones tendrán formato libre, sólo restringidas por el tiempo asignado a cada grupo (que variará según el número de grupos y el tiempo de la sesión).
+- Será requisito que todas las presentaciones incluyan con detalle la información siguiente, de forma separada y clara (al menos 1 transparencia por cada área):
+  - Implementación
+    - Tipo y detalles generales de la arquitectura.
+    - ¿Se ha implementado todo el gameplay, mecánicas y dinámicas? ¿Qué partes no se ha podido implementar?
+    - ¿Se han implementado menús, ciclo completo de juego (morir/ganar), y demás?
+    - Bugs presentes.
+    - Calidad, eficiencia y "limpieza" del código en general.
+    - ¿Se ha hecho empaquetado del proyecto y funciona?
+    - Cosas que se han implementado aparte de lo fundamental: red, entrada por gamepad, vídeos en el juego...
+  - Diseño
+    - Estado del GDD: ¿Está terminado? ¿Cubre todo lo implementado y está actualizado?
+    - Listado (muy corto) de mecánicas y dinámicas principales.
+    - ¿Se han hecho pruebas de jugabilidad?
+    - Cómo se ha medido y balanceado el juego.
+    - Aspectos reseñables en general del diseño.
+  - Gestión
+    - El diagrama de *burn up*, *burn down*, o alguna otra forma de mostrar el progreso de la planificación.
+    - ¿Se ha llevado siempre al día la planificación?
+    - Canales de comunicación usados.
+    - ¿Se han implementado tareas que no estuvieran planificadas?
+    - Problemas que ha habido, y cómo se han gestionado.
+  - Arte
+    - Criterios artísticos: paleta, porqué cierto tipo de imágenes
+    - Ejemplos de recursos: mapas, sprites, menús, sonidos...
+    - Cómo se han generado: ¿Se han cogido externamente? ¿Se han elaborado?
+  - Comunicación
+    - Mostrar la web y comentar el estado en el que está.
+    - Redes sociales en las que haya presencia.
+    - Actividades extra que se hayan llevado a cabo.
+- El resto de la presentación será libre, y se considerará positiva la calidad, imaginación y originalidad.
+
+
+* Release
+
+- El juego (el instalador) estará alojado en el repositorio de GitHub, como un /release/. Se enlazará a él tanto desde la página pública como desde el README del repositorio.
+- Una página web púbica del juego (con información, imágenes, vídeos, enlace al /release/..)
+- Se hará un vídeo (no publicitario, sino técnico) explicando un gameplay completo. Este vídeo no tiene que ser necesariamente muy pulido, simplemente tiene que ser descriptivo, poner de manifiesto las features importantes, y estar comentado durante el gameplay.
+  
+
+* Documentación
+  
+- El archive =README.md= de la raíz del proyecto contendrá, al menos, los siguientes apartados como secciones claras:
+  - *Proyecto*: nombre del equipo, del proyecto, enlace a la página pública, al /release/ del juego y al /vídeo del juego/.
+  - *Presentaciones*: enlaces a los material de las presentaciones.
+  - *Arquitectura*: diagrama de clases y explicación general de la misma.
+  - *GDD*: con:
+    - PEGI
+    - Género
+    - Target/audiencia esperada
+    - Descripción general
+    - Mecánicas (detalladas una a una)
+    - Dinámicas (tanto las generales del juego, como específicas de partes)
+    - Estética (criterio artístico, paleta de colores...)
+    - Mapas, bocetos, dibujos
+    - Valores de pulido, tablas...
+  - *QA*: proceso explicado, gráficas y resultados de QA.
+
+
+* Contribución individual
+
+- Cada grupo tendrá una tabla de contribución compartida con el equipo docente que servirá para declarar la contribución individual /desde el punto de vista del grupo/. Esta información es obligatoria, pero no vinculante (el equipo docente tiene su propia información).
+- El equipo es responsable de mantener actualizada esta información.
+- La contribución que declaréis tiene que /ser única/ y consensuada.
+- Si hay problemas con el consenso, lo mejor es ponerse en contacto con el equipo docente.
