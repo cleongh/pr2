@@ -123,6 +123,8 @@ La lista de requisitos puede ser ampliada en proyectos concretos, siempre con co
 - La gestión habrá sido constante y seria durante el desarrollo
 - Se habrá presentado en todos los hitos
 - Habrá un test de QA, con el correspondiente informe
+- La gestión del proyecto tiene que tener, al menos, los componentes (labels, iteraciones, gráficas, etc) que se indicaron en la sesión inicial
+- No habrá faltas de respeto entre los compañeros del equipo
 
 #+REVEAL: split
 
