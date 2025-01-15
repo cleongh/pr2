@@ -13,95 +13,131 @@ En un videojuego hay muchas tareas de dominios muy distintos, y dividir el área
 
 - Tenéis unas 15 semanas
 - Asumamos 6-7 horas de dedicación a la semana
-- Aproximadamente, *100 horas* de dedicación a la asignatura
+- Aproximadamente, *100 horas* de dedicación a la asignatura por persona
 
 #+REVEAL: split
 
 Eso quiere decir que se os pedirá un proyecto de \\
 
-$\text{puntos} = 100 \times \text{estudiantes}$
+$\text{horas totales del proyecto} = 100 \times \text{estudiantes}$
 
 * Alcance
 
 El proyecto tendrá que definir un alcance (una lista de características, tamaño, etc)
 
-A cada característica se le asignarán una serie de horas
+A cada característica se le asignará una estimación de esfuerzo
 
-Cada característica se evaluará y, al final, se dará un porcentaje de las horas en función de su acabado
+Cada característica se evaluará y, al final, se dará un porcentaje de la su nota máxima en función de su acabado
 
-* Ejemplo
+* Cómputo de horas
 
-- Sois 9 estudiantes
-- Se diseña un proyecto de 950 puntos (más de lo exigido)
+Dadas:
+
+- una característica $c$,
+- una estimación en horas $E$ para esa tarea,
+- una lista de miembros que hayan trabajado en ella $M=[m_1, m_2,\dots, m_n]$
+- y un porcentaje de acabado y calidad de esa característica $P_c$
+
+A cada miembro $M_i$ le corresponden por la característica $c$:
+
+$\text{puntos por característica} = \frac{E \times P_c}{|M|}$
 
 
-#+REVEAL: split
+# * Ejemplo
 
-- Movimiento y salto: 500 puntos
-- Boss final: 450 puntos
+# - Sois 9 estudiantes
+# - Se diseña un proyecto de 950 puntos (más de lo exigido)
 
-#+REVEAL: split
 
-Al evaluar, el /boss/ queda un poco limitado, se dan 300 puntos
+# #+REVEAL: split
 
-Al movimiento, todo (500 puntos)
+# - Movimiento y salto: 500 puntos
+# - Boss final: 450 puntos
 
-En total, el proyecto ha obtenido 800 puntos
+# #+REVEAL: split
 
-#+REVEAL: split
+# Al evaluar, el /boss/ queda un poco limitado, se dan 300 puntos
 
-Para sacar la máxima nota se necesitaban 900 puntos ($9~\text{estudiantes} \times 100 ~\text{puntos}$)
+# Al movimiento, todo (500 puntos)
 
-En total, una aproximación a la calidad del proyecto sería $\frac{800}{900} \approx 8.8$
+# En total, el proyecto ha obtenido 800 puntos
+
+# #+REVEAL: split
+
+# Para sacar la máxima nota se necesitaban 900 puntos ($9~\text{estudiantes} \times 100 ~\text{puntos}$)
+
+# En total, una aproximación a la calidad del proyecto sería $\frac{800}{900} \approx 8.8$
 
 * Nota por estudiante
 
-Pero la nota del proyecto no es la nota de los miembros
+La nota del cada estudiante se calculará teniendo en cuenta:
 
-#+REVEAL: split
+- La nota del proyecto en general (25%)
+- Su contribución, sumando la de cada característica en la que haya participado (75%)
+- Su contribución en otras tareas será tenida en cuenta (presentaciones generales, etc)
 
-La nota de cada estudiante se hará en función de la contribución de cada uno, por puntos
 
-El grupo tendrá que *controlar cuántos puntos merece cada miembro*
+* Métricas de repositorio
 
-(Es parte de lo que queremos que trabajéis en la asignatura)
+Se observarás las métricas del repositorio y las contribuciones individuales para perfilar la evaluación
 
-#+REVEAL: split
+En ningún caso las métricas serán la nota, e intentar "trucar" los números del repositorio (haciendo /commits/ falsos, etc.) será una *infracción grave e implicará suspender la asignatura*.
 
-Según el ejemplo
+# #+REVEAL: split
 
-De los 800 puntos obtenidos:
+# La nota de cada estudiante se hará en función de la contribución de cada uno, por puntos
 
-- $A$ merece un poco del movimiento y un poco del boss: 75 puntos
-- $B$ merece solo del boss, pero lo ha hecho casi todo: 100 puntos
-- ...
+# El grupo tendrá que *controlar cuántos puntos merece cada miembro*
 
-#+REVEAL: split
+# (Es parte de lo que queremos que trabajéis en la asignatura)
 
-Obviamente, la suma de los puntos de cada persona deberá ser igual a los puntos del proyecto
+# #+REVEAL: split
 
-(Más adelante os contamos cómo repartirlos)
+# Según el ejemplo
 
-* Límites por área
+# De los 800 puntos obtenidos:
 
-Los puntos se os darán como una cifra única que podréis repartir como queráis
+# - $A$ merece un poco del movimiento y un poco del boss: 75 puntos
+# - $B$ merece solo del boss, pero lo ha hecho casi todo: 100 puntos
+# - ...
 
-Pero hay un límite en los puntos que podéis recibir por área
+# #+REVEAL: split
 
-#+REVEAL: split
+# Obviamente, la suma de los puntos de cada persona deberá ser igual a los puntos del proyecto
 
-De forma orientativa, en un proyecto de 1000 puntos y con cambios a discreción del equipo docente:
+# (Más adelante os contamos cómo repartirlos)
 
-- Implementación: hasta 400 puntos
-- Gestión: hasta 200 puntos
-- Arte: hasta 100 puntos
-- Diseño: hasta 100 puntos
-- Comunicación: hasta 100 puntos
-- Soft skills: hasta 100 puntos
+# * Límites por área
 
-* Líneas rojas
+# Los puntos se os darán como una cifra única que podréis repartir como queráis
 
-Si alguno de los requisitos básicos no se cumple, el proyecto y todos sus componentes supenderán la convocatoria en curso
+# Pero hay un límite en los puntos que podéis recibir por área
+
+# #+REVEAL: split
+
+# De forma orientativa, en un proyecto de 1000 puntos y con cambios a discreción del equipo docente:
+
+# - Implementación: hasta 400 puntos
+# - Gestión: hasta 200 puntos
+# - Arte: hasta 100 puntos
+# - Diseño: hasta 100 puntos
+# - Comunicación: hasta 100 puntos
+# - Soft skills: hasta 100 puntos
+
+* Condición básica
+
+Todo proyecto que no sea un juego aceptable en general estará suspenso:
+
+- Se puede jugar una partida
+- Hay un diseño claro
+- Hay arte gráfico y sonido
+- Está razonablemente acabado
+
+En general, cualquier defecto grave del proceso o el videojuego serán causa de suspenso, independientemente de los puntos y el alcance
+
+* Penalizadores
+
+Si alguno de los siguientes requisitos básicos no se cumple, el proyecto tendrá penalización (-1 punto por requisito no cumplido)
 
 La lista de requisitos puede ser ampliada en proyectos concretos, siempre con constancia y tiempo suficiente para el grupo
 
@@ -111,8 +147,7 @@ La lista de requisitos puede ser ampliada en proyectos concretos, siempre con co
 - Se podrá instalar y ejecutar en un Windows 10 "de fábrica"
 - Se podrá jugar una partida completa y salir, sin errores
 - Tendrá audio y gráficos apropiados
-- Habrá un GDD amplio con la descripción completa del juego
-- Todos los miembros, salvo causa de fuerza mayor, habrán contribuido
+- Habrá un GDD amplio con la descripción completa del juego, actualizado al juego de la entrega
 - Habrá una dirección artística coherente
 - Los assets tendrán formatos y tamaños apropiados
 
@@ -122,7 +157,7 @@ La lista de requisitos puede ser ampliada en proyectos concretos, siempre con co
 - Haya contribuciones concretas en todas las demás áreas
 - La gestión habrá sido constante y seria durante el desarrollo
 - Se habrá presentado en todos los hitos
-- Habrá un test de QA, con el correspondiente informe
+- Habrá un /playtest/, con el correspondiente informe
 - La gestión del proyecto tiene que tener, al menos, los componentes (labels, iteraciones, gráficas, etc) que se indicaron en la sesión inicial
 - No habrá faltas de respeto entre los compañeros del equipo
 
@@ -135,9 +170,6 @@ La lista de requisitos puede ser ampliada en proyectos concretos, siempre con co
 - Habrá comentarios de código en las cabeceras y allí donde sea necesario
 - El proyecto tendrá al menos configuración /Debug/ y /Release/, y se publicará en /Release/
 
-#+REVEAL: split
-
-En general, cualquier defecto grave del proceso o el videojuego serán causa de suspenso, independientemente de los puntos y el alcance
 
 * Evaluación continua
 
@@ -161,4 +193,4 @@ No habrá presentación pública, y es posible (según la ficha docente) que hay
 
 #+REVEAL: split
 
-En cualquier caso, lo ideal es hablar con el equipo docente antes de afrontar la entrega extraordinaria para establecer unos objetivos y un alcance
+En cualquier caso, es *obligatorio* ponerse en contacto con el equipo docente antes de afrontar la entrega extraordinaria para establecer unos objetivos y un alcance

@@ -11,15 +11,20 @@
 - En el repositorio estará todo el código y recursos.
 - Es fundamental que solo se usen recursos con licencia, y que se tenga cuidado de que nada que no sea de uso legal llegue por accidente al repositorio y/o al juego.
 
+* Usuario
+
+Usad un único usuario de GitHub y no lo cambiéis durante el curso, porque se analizará la información de vuestro usuario.
+
+
+#+INCLUDE: "evaluacion.reveal.org" :lines "84-85"
+
 * Gestión
 
 Toda la información de avance (la gestión) estará es /issues/ y tareas del proyecto de GitHub.
 
 ** Cálculo del esfuerzo
 
-- Cada /issue/ tendrá unos puntos dados, que serán usados para el cómputo de esfuerzo. Se aplicarán a la persona asignada en la tarea. Habrá puntos:
-  - Estimados (en el campo =Estimación=)
-  - Reales, tras la realización de la tarea (campo =Puntos=)
+- Cada /issue/ tendrá su importancia, personas asignadas y comentarios pertinentes
 - Se usarán iteraciones (/Iterations) para los /sprints/
 - Se usarán /milestones/ para los hitos.
 
@@ -88,12 +93,12 @@ Toda la información de avance (la gestión) estará es /issues/ y tareas del pr
     - Estética (criterio artístico, paleta de colores...)
     - Mapas, bocetos, dibujos
     - Valores de pulido, tablas...
-  - *QA*: proceso explicado, gráficas y resultados de QA.
+  - *Playtest*: proceso explicado, gráficas y resultados de playtest.
 
 
-* Contribución individual
+# * Contribución individual
 
-- Cada grupo tendrá una tabla de contribución compartida con el equipo docente que servirá para declarar la contribución individual /desde el punto de vista del grupo/. Esta información es obligatoria, pero no vinculante (el equipo docente tiene su propia información).
-- El equipo es responsable de mantener actualizada esta información.
-- La contribución que declaréis tiene que /ser única/ y consensuada.
-- Si hay problemas con el consenso, lo mejor es ponerse en contacto con el equipo docente.
+# - Cada grupo tendrá una tabla de contribución compartida con el equipo docente que servirá para declarar la contribución individual /desde el punto de vista del grupo/. Esta información es obligatoria, pero no vinculante (el equipo docente tiene su propia información).
+# - El equipo es responsable de mantener actualizada esta información.
+# - La contribución que declaréis tiene que /ser única/ y consensuada.
+# - Si hay problemas con el consenso, lo mejor es ponerse en contacto con el equipo docente.
