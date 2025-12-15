@@ -18,7 +18,7 @@ Se sigue un proceso muy parecido a (y coordinado con) Proyectos I y PVLI
 
 * Características de PRII
 
-- Grupos /grandes/ (8-10 personas)
+- Grupos /grandes/
 - C++/SDL (se puede usar TPV)
 - Libertad para usar otras librerías (consultad primero)
 - Libertad para usar /assets/ propios y externos (¡con licencia!)

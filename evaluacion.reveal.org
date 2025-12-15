@@ -29,18 +29,18 @@ A cada característica se le asignará una estimación de esfuerzo
 
 Cada característica se evaluará y, al final, se dará un porcentaje de la su nota máxima en función de su acabado
 
-* Cómputo de horas
+# * Cómputo de horas
 
-Dadas:
+# Dadas:
 
-- una característica $c$,
-- una estimación en horas $E$ para esa tarea,
-- una lista de miembros que hayan trabajado en ella $M=[m_1, m_2,\dots, m_n]$
-- y un porcentaje de acabado y calidad de esa característica $P_c$
+# - una característica $c$,
+# - una estimación en horas $E$ para esa tarea,
+# - una lista de miembros que hayan trabajado en ella $M=[m_1, m_2,\dots, m_n]$
+# - y un porcentaje de acabado y calidad de esa característica $P_c$
 
-A cada miembro $M_i$ le corresponden por la característica $c$:
+# A cada miembro $M_i$ le corresponden por la característica $c$:
 
-$\text{puntos por característica} = \frac{E \times P_c}{|M|}$
+# $\text{puntos por característica} = \frac{E \times P_c}{|M|}$
 
 
 # * Ejemplo
@@ -70,12 +70,11 @@ $\text{puntos por característica} = \frac{E \times P_c}{|M|}$
 
 * Nota por estudiante
 
-La nota del cada estudiante se calculará teniendo en cuenta:
+La nota del cada estudiante se calculará ponderando la nota del proyecto según su aportación particular:
 
-- La nota del proyecto en general (25%)
-- Su contribución, sumando la de cada característica en la que haya participado (75%)
-- Su contribución en otras tareas será tenida en cuenta (presentaciones generales, etc)
-
+- No llegar a la aportación mínima, independientemente de la nota del proyecto: suspenso
+- Contribución aproximada de 100 horas útiles y reales al proyecto: nota del proyecto.
+- Una contribución mayor o menor tendrá impacto en la nota final.
 
 * Métricas de repositorio
 
@@ -124,7 +123,7 @@ En ningún caso las métricas serán la nota, e intentar "trucar" los números d
 # - Comunicación: hasta 100 puntos
 # - Soft skills: hasta 100 puntos
 
-* Condición básica
+* Requisito obligatorio general
 
 Todo proyecto que no sea un juego aceptable en general estará suspenso:
 
@@ -135,9 +134,9 @@ Todo proyecto que no sea un juego aceptable en general estará suspenso:
 
 En general, cualquier defecto grave del proceso o el videojuego serán causa de suspenso, independientemente de los puntos y el alcance
 
-* Penalizadores
+* Requisitos obligatorios específicos
 
-Si alguno de los siguientes requisitos básicos no se cumple, el proyecto tendrá penalización (-1 punto por requisito no cumplido)
+Si alguno de los siguientes requisitos básicos no se cumple, el proyecto se considerará no aprobado
 
 La lista de requisitos puede ser ampliada en proyectos concretos, siempre con constancia y tiempo suficiente para el grupo
 
