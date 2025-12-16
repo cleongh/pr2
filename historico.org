@@ -1,6 +1,14 @@
 #+title: Histórico de Proyectos II
 
 
+* 2024/2025
+
+- [[https://ucm-fdi-disia.github.io/KleptoMagic/][Kleptomagic]]
+- [[https://ucm-fdi-disia.github.io/TheatrumMundi/][Threatrum Mundi]]
+- [[https://ucm-fdi-disia.github.io/Carom/][Carom]]
+- [[https://ucm-fdi-disia.github.io/CrazyPawPals/][Crazy Paw Pals]]
+- [[https://ucm-fdi-disia.github.io/DeathToken/][Death Token]]
+
 * 2023/2024
 
 - [[https://ucm-fdi-disia.github.io/FuMonoStudios/][Mail to Atlantis (FuMonoStudios)]]
