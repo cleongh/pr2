@@ -3,11 +3,11 @@
 
 * 2024/2025
 
-- [[https://ucm-fdi-disia.github.io/KleptoMagic/][Kleptomagic]]
-- [[https://ucm-fdi-disia.github.io/TheatrumMundi/][Threatrum Mundi]]
-- [[https://ucm-fdi-disia.github.io/Carom/][Carom]]
-- [[https://ucm-fdi-disia.github.io/CrazyPawPals/][Crazy Paw Pals]]
-- [[https://ucm-fdi-disia.github.io/DeathToken/][Death Token]]
+- [[https://ucm-fdi-disia.github.io/KleptoMagic/][Kleptomagic (Team 2)]]
+- [[https://ucm-fdi-disia.github.io/TheatrumMundi/][Threatrum Mundi (ElectricBoogaloo)]]
+- [[https://ucm-fdi-disia.github.io/Carom/][Carom (Bocata de Oreja con Mayonesa)]]
+- [[https://ucm-fdi-disia.github.io/CrazyPawPals/][Crazy Paw Pals (Curtain reaper)]]
+- [[https://ucm-fdi-disia.github.io/DeathToken/][Death Token (Ludopatiats)]]
 
 * 2023/2024
 
