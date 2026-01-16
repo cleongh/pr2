@@ -73,7 +73,7 @@ Cada característica se evaluará y, al final, se dará un porcentaje de la su n
 La nota del cada estudiante se calculará ponderando la nota del proyecto según su aportación particular:
 
 - No llegar a la aportación mínima, independientemente de la nota del proyecto: suspenso
-- Contribución aproximada de 100 horas útiles y reales al proyecto: nota del proyecto.
+- Contribución aproximada de 100 horas *útiles* y *reales* al proyecto en las partes importantes y con impacto en el entregable: nota del proyecto.
 - Una contribución mayor o menor tendrá impacto en la nota final.
 
 * Métricas de repositorio
@@ -176,11 +176,9 @@ Iréis teniendo notas y realimentación durante la asignatura, pero es solo para
 
 Se irá revisando el alcance del proyecto, y se os dará información sobre cómo vais y qué se espera que hagáis
 
-** La única nota que cuenta es la final
-
 Todo el contenido que se trabaja en los proyectos es acumulativo
 
-Aunque se os irá dando realimentación e información de cómo va el proyecto según los criterios de evaluación, la nota final será lo único que tenga peso
+# Aunque se os irá dando realimentación e información de cómo va el proyecto según los criterios de evaluación, la nota final será lo único que tenga peso
 
 * Convocatoria extraordinaria
 

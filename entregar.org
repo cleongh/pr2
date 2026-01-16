@@ -73,7 +73,7 @@ Toda la información de avance (la gestión) estará es /issues/ y tareas del pr
 * Release
 
 - El juego (el instalador) estará alojado en el repositorio de GitHub, como un /release/. Se enlazará a él tanto desde la página pública como desde el README del repositorio.
-- Una página web púbica del juego (con información, imágenes, vídeos, enlace al /release/..)
+- Una página web púbica del juego (con información, imágenes, vídeos, enlace al /release/...)
 - Se hará un vídeo (no publicitario, sino técnico) explicando un gameplay completo. Este vídeo no tiene que ser necesariamente muy pulido, simplemente tiene que ser descriptivo, poner de manifiesto las features importantes, y estar comentado durante el gameplay.
   
 
