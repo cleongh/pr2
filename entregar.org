@@ -83,6 +83,7 @@ Toda la información de avance (la gestión) estará es /issues/ y tareas del pr
   - *Proyecto*: nombre del equipo, del proyecto, enlace a la página pública, al /release/ del juego y al /vídeo del juego/.
   - *Presentaciones*: enlaces a los material de las presentaciones.
   - *Arquitectura*: diagrama de clases y explicación general de la misma.
+  - *Informe de contribución*: descripción, con los nombres de usuario de GitHub, de la contribución de cada componente del equipo (tenéis una [[https://github.com/cleongh/proyectos/blob/main/contribucion.md][plantilla]]).
   - *GDD*: con:
     - PEGI
     - Género
